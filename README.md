@@ -26,7 +26,7 @@ detial
 detial
 
 # Web3 Technology
-detial
+
 
 ⭕ Website: https://www.bitsmile.co
 
