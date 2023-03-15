@@ -11,22 +11,22 @@
 
 # Marketplace
 
-detial
+We serve a ecommerce platform that combines all service. and accept payments through Bitsmite token.
 
 # Smile travel to Earn
-detial
+Travel around the world ready to earn Just download BitSmile App. Add BSm to the system.
 
 # Smile NFT
-detial
+More than 10,000 beautiful collections ready for you to own via BitSmile NFT Project.
 
 # Smile Play2earn
-detial
+We provide various game dApps to allow more users to play games and earn money on BitSmile app
 
 # Smile Card
-detial
+This debit card lets you spend ฺBSm instantly at merchant stores, support Visa. Or withdraw crypto ATMs
 
-# Web3 Technology
-
+# Blockchain Technology
+BitSmile. blockchain technology service providers in the travel industry. As a Binance smart chain
 
 ⭕ Website: https://www.bitsmile.co
 
