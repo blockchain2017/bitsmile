@@ -28,6 +28,8 @@ This debit card lets you spend ฺBSm instantly at merchant stores, support Visa
 # Blockchain Technology
 BitSmile. blockchain technology service providers in the travel industry. As a Binance smart chain
 
+JOIN US
+
 ⭕ Website: https://www.bitsmile.co
 
 📄 Whitepaper : https://docs.bitsmile.co
