@@ -1,4 +1,4 @@
-# BitSmile Crypto for Community
+# Revolutionary crypto -token used as a reward for customers in Travel, Hotels, Marketplace, NFTs, Play2earn, and More..
 
 <div align="center"><img src="https://lqbfinance.com/wp-content/uploads/2023/03/BSM-LOGO1.png" /><br />
 </div>
