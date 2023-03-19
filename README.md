@@ -44,7 +44,7 @@ JOIN US
 
 👨🏿‍🤝‍👨🏿Line : https://lin.ee/hSneotw
 
-👨🏿‍🤝‍👨🏿Youtube : https:www.
+👨🏿‍🤝‍👨🏿Instagram : https://www.instagram.com/bitsmile_official/
 
 👨🏿‍🤝‍👨🏿Blockdit : https://www.blockdit.com/pages/6401bf49495835c6090f81fc
 
