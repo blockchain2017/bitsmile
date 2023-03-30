@@ -1,4 +1,4 @@
-# Revolutionary crypto -token used as a reward for customers.
+# Revolutionary BitSmile -token used as a reward for Customers in Travel, Play2earn, NFTs and More..
 
 <div align="center"><img src="https://lqbfinance.com/wp-content/uploads/2023/03/BSM-LOGO1.png" /><br />
 </div>
