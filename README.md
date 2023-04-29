@@ -46,6 +46,4 @@ JOIN US
 
 👨🏿‍🤝‍👨🏿Instagram : https://www.instagram.com/bitsmile_official/
 
-👨🏿‍🤝‍👨🏿Blockdit : https://www.blockdit.com/pages/6401bf49495835c6090f81fc
-
 🔒 Smart Contract : https://bscscan.com/token/0x5a81c1b49bc12db8b1095989f8d460589ddb4101
