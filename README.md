@@ -32,7 +32,7 @@ JOIN US
 
 ⭕ Website: https://www.bitsmile.co
 
-📄 Whitepaper : 
+📄 Whitepaper : https://bitsmile.co/wp-content/uploads/2023/03/White-paper-BitSmile.pdf
 
 👨🏿‍🤝‍👨🏿Twitter : https://twitter.com/bitsmile8
 
