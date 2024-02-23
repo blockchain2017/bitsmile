@@ -24,20 +24,14 @@ Phase 4 : Project Launch Crypto Wallet, NFT Marketplace, GMNT Blockchain, Debit 
 
 JOIN US
 
-⭕ Website: https://www.bitsmile.co
+⭕ Website: https://www.gmnt.org
 
-📄 Whitepaper : https://bitsmile.co/wp-content/uploads/2023/03/White-paper-BitSmile.pdf
+📄 Whitepaper : https://docs.gmnt.org
 
-👨🏿‍🤝‍👨🏿Twitter : https://twitter.com/bitsmile8
+👨🏿‍🤝‍👨🏿Twitter : https://twitter.com/
 
-👨🏿‍🤝‍👨🏿Telegram Group : https://t.me/+cMLMaL2NU7U2NTM1
+👨🏿‍🤝‍👨🏿Telegram Group : https://t.me/
 
-👨🏿‍🤝‍👨🏿Facebook : https://www.facebook.com/bitsmile.token
+👨🏿‍🤝‍👨🏿Facebook : https://www.facebook.com/
 
-👨🏿‍🤝‍👨🏿Discord Group : https://discord.gg/V6G4Wwuf
-
-👨🏿‍🤝‍👨🏿Line : https://lin.ee/hSneotw
-
-👨🏿‍🤝‍👨🏿Instagram : https://www.instagram.com/bitsmile_official/
-
-🔒 Smart Contract : https://bscscan.com/token/0x5a81c1b49bc12db8b1095989f8d460589ddb4101
+🔒 Smart Contract : https://bscscan.com/token/0x8efda34C7417071b8dA1239Aa2F4033a223B5A34
