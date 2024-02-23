@@ -1,4 +1,4 @@
-# GMNTCoin, Ecosystem for the DeFi protocols
+# GMNTCoin, Ecosystem for the DeFi Protocols
 <div align="center"><img src="https://gmnt.org/wp-content/uploads/2024/02/cropped-231-1-removebg-preview.png" /><br />
 </div>
 <div align="center">
@@ -6,6 +6,7 @@
     <a href="https://www.gmnt.org/" target="_blank">Go to Website<br />
     </a></h1>
 </div>
+GMNT, Ecosystem Of The DeFi Technology
 Welcome to the DeFi technology earning program. Revolutionary platform that yields real-world rewards on blockchain. Use GMNT  ์manage. Subsets of the project include Marketplace, Payment, NFT market, Decentralized exchange.
 
 # Marketplace Platform
