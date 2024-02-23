@@ -1,32 +1,26 @@
-# Revolutionary BitSmile -token used as a reward for Customers in Travel, Play2earn, NFTs and More..
-
-<div align="center"><img src="https://lqbfinance.com/wp-content/uploads/2023/03/BSM-LOGO1.png" /><br />
+# GMNTCoin, Ecosystem for the DeFi protocols
+<div align="center"><img src="https://gmnt.org/wp-content/uploads/2024/02/cropped-231-1-removebg-preview.png" /><br />
 </div>
 <div align="center">
   <h1><br />
-    <a href="https://www.bitsmile.co/" target="_blank">Go To Website<br />
+    <a href="https://www.gmnt.org/" target="_blank">Go to Website<br />
     </a></h1>
 </div>
+Welcome to the DeFi technology earning program. Revolutionary platform that yields real-world rewards on blockchain. Use GMNT  ์manage. Subsets of the project include Marketplace, Payment, NFT market, Decentralized exchange.
 
+# Marketplace Platform
+GMNT marketplace is a store that collects more than 1,000 products. Use GMNT Coin as an intermediary for payment 100%. Fast delivery. with real-time product tracking system
 
-# Marketplace
+# Staking platform
+GMNT Web3 Staking, new technology. You rewards are generated daily until the date lock stake Now it’s time to enjoy your life and finally let your money work for you every day.
 
-We serve a ecommerce platform that combines all service. and accept payments through Bitsmite token.
+# Payment gateway
+Use GMNTCoin on marketplace platform. Easy to use procedure Press to pay for products, connect to wallet, press to confirm, check transactions via blockchain, convenient and safe.
 
-# Smile travel to Earn
-Travel around the world ready to earn Just download BitSmile App. Add BSm to the system.
+# Decentralized Exchange
+GMNTEx is your gateway to a world of seamless cryptocurrency exchange. With a user-friendly interface and robust security features, Low fees,Fast, Secure, Affiliate program
 
-# Smile NFT
-More than 10,000 beautiful collections ready for you to own via BitSmile NFT Project.
-
-# Smile Play2earn
-We provide various game dApps to allow more users to play games and earn money on BitSmile app
-
-# Smile Card
-This debit card lets you spend ฺBSm instantly at merchant stores, support Visa. Or withdraw crypto ATMs
-
-# Blockchain Technology
-BitSmile. blockchain technology service providers in the travel industry. As a Binance smart chain
+Phase 4 : Project Launch Crypto Wallet, NFT Marketplace, GMNT Blockchain, Debit Card
 
 JOIN US
 
