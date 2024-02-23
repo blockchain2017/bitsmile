@@ -1,37 +1,39 @@
-# GMNTCoin, Ecosystem for the DeFi Protocols Technology
-<div align="center"><img src="https://gmnt.org/wp-content/uploads/2024/02/cropped-231-1-removebg-preview.png" /><br />
+# Revolutionary BitSmile -token used as a reward for Customers in Travel, Play2earn, NFTs and More.
+<div align="center"><img src="https://bitsmile.co/wp-content/uploads/2023/03/339062434_747573420088459_2143300835611820525x500_n.gif" /><br />
 </div>
 <div align="center">
   <h1><br />
-    <a href="https://www.gmnt.org/" target="_blank">Go to Website<br />
+    <a href="https://bitsmile.co/" target="_blank">Go to Website<br />
     </a></h1>
 </div>
-Welcome to the DeFi technology earning program. Revolutionary platform that yields real-world rewards on blockchain. Use GMNT  ์manage. Subsets of the project include Marketplace, Payment, NFT market, Decentralized exchange.
+Our project has established BitSmile (BSm) a cryptocurrency coin in spired by the desire to witness s ocieties and communities filled with positive relations hips , smiles , and laughter by us ing our coins as a medium to build livable communities and as a symbol for building meaningful relationships with each other.
+
+Humans are not AI robots . They pos s es s souls and require love, generosity, and meaningful relationships withoneanother.
+
+Justimaginehowlivableoursociety could be if we prioritized sustainable coexistence between humans and technology.
+
+BitSmile coin aims to represent and symbolize good relationships and the creation of livable communities in this world.
 
 # Marketplace Platform
-GMNT marketplace is a store that collects more than 1,000 products. Use GMNT Coin as an intermediary for payment 100%. Fast delivery. with real-time product tracking system
+We serve a ecommerce platform that combines all service. and accept payments through BitSmile
 
-# Staking platform
-GMNT Web3 Staking, new technology. You rewards are generated daily until the date lock stake Now it’s time to enjoy your life and finally let your money work for you every day.
+# Travel2earn
+Travel around the world ready to earn Just download BitSmile App. Add BSm to the system.
 
-# Payment gateway
-Use GMNTCoin on marketplace platform. Easy to use procedure Press to pay for products, connect to wallet, press to confirm, check transactions via blockchain, convenient and safe.
+# Smile NFT
+More than 10,000 beautiful collections ready for you to own via BitSmile NFT Project.
 
-# Decentralized Exchange
-GMNTEx is your gateway to a world of seamless cryptocurrency exchange. With a user-friendly interface and robust security features, Low fees,Fast, Secure, Affiliate program
+# Play2earn
+We provide various game dApps to allow more users to play games and earn money on BitSmile app
 
-Phase 4 : Project Launch Crypto Wallet, NFT Marketplace, GMNT Blockchain, Debit Card
+# Smile Card
+This debit card lets you spend ฺBSm instantly at merchant stores, support Visa. Or withdraw crypto ATMs
+
+# Blockchain
+BitSmile. blockchain technology service providers in the travel industry. As a Binance smart chain
 
 JOIN US
 
-⭕ Website: https://www.gmnt.org
+⭕ Website: https://bitsmile.co/
 
-📄 Whitepaper : https://docs.gmnt.org
-
-👨🏿‍🤝‍👨🏿Twitter : https://twitter.com/
-
-👨🏿‍🤝‍👨🏿Telegram Group : https://t.me/
-
-👨🏿‍🤝‍👨🏿Facebook : https://www.facebook.com/
-
-🔒 Smart Contract : https://bscscan.com/token/0x8efda34C7417071b8dA1239Aa2F4033a223B5A34
+🔒 Smart Contract : https://bscscan.com/token/0x5a81c1b49bc12db8b1095989f8d460589ddb4101
