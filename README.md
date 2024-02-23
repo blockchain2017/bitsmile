@@ -1,4 +1,4 @@
-# Revolutionary BitSmile -token used as a reward for Customers in Travel, Play2earn, NFTs and More.
+# Community Of Smiles. That Spread All Over The World.
 <div align="center"><img src="https://bitsmile.co/wp-content/uploads/2023/03/339062434_747573420088459_2143300835611820525x500_n.gif" /><br />
 </div>
 <div align="center">
